@@ -6,7 +6,7 @@
 </a>
 Срок вполнения: 28.08-01.09.2023
 </br> Использованные библиотеки:
-- pandas
+<a>- pandas
 - matplotlib
 - numpy
 - datetime
